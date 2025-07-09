@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*build/
+*develop-eggs/
+*dist/
+*downloads/
+*eggs/
+*.egg-info/
+*lib/
+*lib64/
+*parts/
+*sdist/
+*var/
+*.so
+.Python
+*env/
+*venv/
+.env
+
+# Downloaded Images & Temp Files
+arknights_portraits_fandom/
+arknights_portraits_prts/
+Arknights_PRTS/
+operators.html
+prts_operators.html
+debug_page.html
+image_list.txt
+test.py
+arknights_scraper.py
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
